@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orange.Utilities", "Orange.Utilities\Orange.Utilities.csproj", "{7E9643F4-4BE6-4FFD-BFD7-8516163314C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "Orange.ConsoleApp\ConsoleApp\ConsoleApp.csproj", "{00EFDDBE-0526-4B3D-A6BC-72C0787E8633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orange.Api", "Orange.Api\Orange.Api.csproj", "{536842CE-3D14-456E-9FF1-2AE367EFB749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orange.Data", "Orange.Data\Orange.Data.csproj", "{787731A2-0532-48C8-98E6-A94701ABE205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orange.Services", "Orange.Services\Orange.Services.csproj", "{7F557C09-6ABD-49F3-8794-846017DAA4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orange.Model", "Orange.Model\Orange.Model.csproj", "{A64BB50D-3E5B-41F6-AF58-6B3A2FC88FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E9643F4-4BE6-4FFD-BFD7-8516163314C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9643F4-4BE6-4FFD-BFD7-8516163314C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9643F4-4BE6-4FFD-BFD7-8516163314C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9643F4-4BE6-4FFD-BFD7-8516163314C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00EFDDBE-0526-4B3D-A6BC-72C0787E8633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EFDDBE-0526-4B3D-A6BC-72C0787E8633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EFDDBE-0526-4B3D-A6BC-72C0787E8633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EFDDBE-0526-4B3D-A6BC-72C0787E8633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536842CE-3D14-456E-9FF1-2AE367EFB749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536842CE-3D14-456E-9FF1-2AE367EFB749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536842CE-3D14-456E-9FF1-2AE367EFB749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536842CE-3D14-456E-9FF1-2AE367EFB749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787731A2-0532-48C8-98E6-A94701ABE205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787731A2-0532-48C8-98E6-A94701ABE205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787731A2-0532-48C8-98E6-A94701ABE205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787731A2-0532-48C8-98E6-A94701ABE205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F557C09-6ABD-49F3-8794-846017DAA4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F557C09-6ABD-49F3-8794-846017DAA4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F557C09-6ABD-49F3-8794-846017DAA4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F557C09-6ABD-49F3-8794-846017DAA4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64BB50D-3E5B-41F6-AF58-6B3A2FC88FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64BB50D-3E5B-41F6-AF58-6B3A2FC88FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64BB50D-3E5B-41F6-AF58-6B3A2FC88FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64BB50D-3E5B-41F6-AF58-6B3A2FC88FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jshepherdmba.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Orange.ConsoleApp\\ConsoleApp\\ConsoleApp.csproj
+		SccProjectName1 = Orange.ConsoleApp/ConsoleApp
+		SccLocalPath1 = Orange.ConsoleApp\\ConsoleApp
+		SccProjectUniqueName2 = Orange.Utilities\\Orange.Utilities.csproj
+		SccProjectName2 = Orange.Utilities
+		SccLocalPath2 = Orange.Utilities
+		SccProjectUniqueName3 = Orange.Api\\Orange.Api.csproj
+		SccProjectName3 = Orange.Api
+		SccLocalPath3 = Orange.Api
+		SccProjectUniqueName4 = Orange.Data\\Orange.Data.csproj
+		SccProjectName4 = Orange.Data
+		SccLocalPath4 = Orange.Data
+		SccProjectUniqueName5 = Orange.Services\\Orange.Services.csproj
+		SccProjectName5 = Orange.Services
+		SccLocalPath5 = Orange.Services
+		SccProjectUniqueName6 = Orange.Model\\Orange.Model.csproj
+		SccProjectName6 = Orange.Model
+		SccLocalPath6 = Orange.Model
+	EndGlobalSection
+EndGlobal
